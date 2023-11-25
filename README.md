@@ -1,7 +1,5 @@
 ### Merhaba Dünya 👋
-🔭 Ben AWS ve DevOps alanında çalışıyorum.
-Elde ettiğim bilgileri Türkçe açıklamaları ile birlikte repomda paylaşıyor ve güncelliyorum.
-Bu alanda Python, Kubernetes, Terraform, Docker, Linux, Maven, Prometheus/Grafana notlarıma ulaşabilirsiniz.
+🔭 İnsanın kendini mutlu hissettiği bir alanda çalışması, kenini nasıl mutlu ve iyi hissettiriyorsa, sizde kendinizi iyi hisettiğiniz bir alanda var edin, çünkü ben öyle yapıyorum ve AWS&DevOps alanında çalışıyorum.
 
 <!--
 **firetigers/firetigers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
