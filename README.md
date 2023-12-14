@@ -1,6 +1,7 @@
 ### Merhaba Dünya 👋
 🔭 İnsanın kendini mutlu hissettiği bir alanda çalışması, kendini nasıl mutlu ve iyi hissettiriyorsa, sizde kendinizi iyi hisettiğiniz bir alanda var edin, çünkü ben öyle yapıyorum ve AWS&DevOps alanında çalışıyorum.
-
+Hello world 👋
+🔭 Working in an area where a person feels happy, how happy and good, you have an area where you feel good, because I do so and I work in the AWS & Devops field.
 <!--
 **firetigers/firetigers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
